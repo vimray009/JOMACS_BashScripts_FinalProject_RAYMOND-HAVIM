@@ -1,7 +1,7 @@
 #!/bin/bash
 #Question_2
 
-#Author - Doreen Dela Agbedoe
+#Author - Raymond Havim
 #Created - 25th August, 2023
 #Modified - 4th September, 2023
 #Description - Validation of client's card digits, 

@@ -1,6 +1,6 @@
-#!/bin/bash
+i#!/bin/bash
 #Question_3
-#Author: Doreen Dela Agbedoe
+#Author: Raymond Havim
 #Created: 23rd August 2023
 #Description: Kofi's credit limit approval script
 

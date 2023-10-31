@@ -1,7 +1,7 @@
 #!/bin/bash
 #Question_1
 
-#Author - Doreen Dela Agbedoe
+#Author - Raymond Havim
 #Created - 24th August, 2023
 #Modified - 4th September, 2023
 #Description - This script is to help a client set up a new pin 
